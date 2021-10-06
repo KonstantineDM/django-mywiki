@@ -1,7 +1,7 @@
 # [Django] MyWiki Encyclopedia App
 An implementation of a wiki-like encyclopedia made real with Django.
 
-Created as part of my learning Django along with Harvard's course "CS50’s Web Programming with Python and JavaScript". Intended for educational purposes only, as a personal perspective on a solution to this course's project (do not use this code if you are currently trying to figure the solution out, first try to solve everything yourself!).
+Created as part of my learning Django along with Harvard's course "CS50’s Web Programming with Python and JavaScript". Intended for educational purposes only, as a personal perspective on a solution to this course's project (**do not use this code if you are currently trying to figure the solution out, first try to solve everything yourself!**).
 
 ### This is a minimal implementation of a wiki, according to the course's specification:
 
