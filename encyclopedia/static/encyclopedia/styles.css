@@ -1,0 +1,66 @@
+body {
+    margin: 0;
+    background-color: white;
+}
+
+code {
+    white-space: pre;
+}
+
+h1 {
+    margin-top: 0px;
+    padding-top: 20px;
+}
+
+textarea {
+    height: 90vh;
+    width: 80%;
+}
+
+.main {
+    padding: 10px;
+    height: 100vh;
+}
+
+.search {
+    width: 100%;
+    font-size: 15px;
+    line-height: 15px;
+}
+
+.sidebar {
+    background-color: #f0f0f0;
+    height: 100vh;
+    padding: 20px;
+}
+
+.sidebar h2 {
+    margin-top: 5px;
+}
+
+#create-new-page-form {
+    margin-right: 10px;
+}
+
+#create-new-page-form form {
+    display: flex;
+    flex-direction: column;
+}
+
+#title {
+    width: 45%
+}
+
+#l-entry {
+margin-top: 15px;
+}
+
+#entry {
+    height: 60vh;
+    width: 90%;
+}
+
+#submit {
+    width: 20%;
+    margin-top: 15px;
+}
