@@ -38,4 +38,6 @@ Make sure you meet the requirements: `python -m pip install -r requirements.txt`
 Being inside the project's folder run `python manage.py runserver` in the terminal to start a local server.
 The wiki index page is available through `wiki/` url.
 
-### Preview screenshots of wiki are located in the images dir
+### Preview
+
+https://user-images.githubusercontent.com/71542112/136233972-328c7869-0378-4a2e-8047-240845ab5059.mp4
