@@ -40,5 +40,5 @@ Created as part of my learning Django along with Harvard's course "CS50’s Web 
 ## Info
 Make sure you meet the requirements: `python -m pip install -r requirements.txt`.
 
-Being inside the project's folder run `python manage.py runserver` in the terminal to start a local server.
+Being inside the root directory with manage.py run `python manage.py runserver` in the terminal to start a local server.
 The wiki index page is available through `wiki/` url.
